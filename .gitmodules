@@ -4,3 +4,6 @@
 [submodule "ants"]
 	path = ants
 	url = git@github.com:panjf2000/ants.git
+[submodule "gin"]
+	path = gin
+	url = git@github.com:tiandidoushidali/gin.git
