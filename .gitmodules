@@ -7,3 +7,6 @@
 [submodule "gin"]
 	path = gin
 	url = git@github.com:tiandidoushidali/gin.git
+[submodule "testsub"]
+	path = testsub
+	url = git@github.com:tiandidoushidali/test_sub.git
